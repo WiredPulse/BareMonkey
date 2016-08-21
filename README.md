@@ -20,7 +20,7 @@ This script needs Volatility in order to run successfully.
 
 # Notes <br>
 
-This script is intended to be used for memory anaylsis.
+This script is intended to be used for memory anaylsis using Volatility.
 
 # Disclaimer <br>
 
