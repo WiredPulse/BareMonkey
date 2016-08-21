@@ -3,7 +3,7 @@
 ##############################################################################
 #  Script: Bare Monkey
 # Version: 1.0
-#  Author: B!0t!c_F!b3r$.
+#  Author: WiredPulse
 #   Legal: Script provided "AS IS" without warranties or guarantees of any
 #          kind.  USE AT YOUR OWN RISK.  Public domain, no rights reserved.
 ##############################################################################
