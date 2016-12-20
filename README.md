@@ -1,7 +1,7 @@
 # BareMonkey
 Volatility plugin parser<br>
             
-![Alt text](https://github.com/WiredPulse/PoSh-R2/blob/master/Screenshots/3-Results2.png?raw=true "Optional Title")
+![Alt text](https://github.com/WiredPulse/BareMonkey/blob/master/bare_monkey.jpg?raw=true "Optional Title")
 
 # Description of Project
 
