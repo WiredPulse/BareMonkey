@@ -1,23 +1,7 @@
 # BareMonkey
 Volatility plugin parser<br>
-                            <br>             
-                         ___	        
-                        / _,\	     <br>   
-                        \_\	        
-             ,,,,    _,_)  #      /)	
-            (= =)D__/    __/     //	
-           C/^__)/     _(    ___//	
-             \_,/  -.   '-._/,--'	        
-       _\\_,  /           -//.	        
-        \_ \_/  -,._ _     ) )	        
-          \/    /    )    / /	        
-          \-__,/    (    ( (	        
-                     \.__,-)\_
-                      )\_ / -(	        
-                     / -(////	        
-                    ////	                
-                                          
-
+            
+![Alt text](https://github.com/WiredPulse/PoSh-R2/blob/master/Screenshots/3-Results2.png?raw=true "Optional Title")
 
 # Description of Project
 
