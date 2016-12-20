@@ -10,10 +10,9 @@ Bare Monkey was developed to help expedite my forensics analysis using Volatilit
 #Execution
 This script needs Volatility in order to run successfully.
 
-- Use the following to run the script:<br>
+- Call upon the script as depicted below:<br>
 
-&#160;&#160;&#160;&#160;bare_monkey.sh <br>
-
+./bare_monkey.sh <br>
 
 - Occasionally, you need to modify the permissions: chmod 711 ./bare_monkey.sh
 
