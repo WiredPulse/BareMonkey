@@ -1,5 +1,22 @@
 # BareMonkey
-Volatility plugin parser
+Volatility plugin parser<br>
+                            <br>             
+                         ___	        
+                        / _,\	     <br>   
+                        \_\	        
+             ,,,,    _,_)  #      /)	
+            (= =)D__/    __/     //	
+           C/^__)/     _(    ___//	
+             \_,/  -.   '-._/,--'	        
+       _\\_,  /           -//.	        
+        \_ \_/  -,._ _     ) )	        
+          \/    /    )    / /	        
+          \-__,/    (    ( (	        
+                     \.__,-)\_
+                      )\_ / -(	        
+                     / -(////	        
+                    ////	                
+                                          
 
 
 # Description of Project
