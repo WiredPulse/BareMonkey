@@ -12,7 +12,7 @@ This script needs Volatility in order to run successfully.
 
 - Use the following to run the script:
 
-./bare_monkey.sh
+&#160;&#160;&#160;&#160;./bare_monkey.sh
 
 
 - Occasionally, you need to modify the permissions: chmod 711 ./bare_monkey.sh
